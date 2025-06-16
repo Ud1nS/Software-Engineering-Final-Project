@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854154884687",
+    "project_id": "waste2worthtest",
+    "storage_bucket": "waste2worthtest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854154884687:android:84e149e77b0b28a41d9c3a",
+        "android_client_info": {
+          "package_name": "com.example.waste2worth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzjhx9vgmdQz4zJkpwbeeD3APLWaK3Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
